@@ -1,4 +1,4 @@
-package com.example.astra
+package com.rivaan.astra
 
 import io.flutter.embedding.android.FlutterActivity
 

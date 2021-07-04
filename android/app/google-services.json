@@ -8,18 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:554896645478:android:8c4b8d6adadeb152fe3ca7",
+        "mobilesdk_app_id": "1:554896645478:android:79c7c44d78035291fe3ca7",
         "android_client_info": {
-          "package_name": "com.example.astra"
+          "package_name": "com.rivaan.astra"
         }
       },
       "oauth_client": [
         {
-          "client_id": "554896645478-bkaauvsvah7lgaa1b950kbn4k9bocr5e.apps.googleusercontent.com",
+          "client_id": "554896645478-qvs5mr95nl4uc1ppt1b8c0m73oidrgco.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.astra",
-            "certificate_hash": "ca4166c164863cf073ed2b488384b52a47379e73"
+            "package_name": "com.rivaan.astra",
+            "certificate_hash": "deed3a9ea1999356b9248bac5cd274c7cf745def"
           }
         },
         {
